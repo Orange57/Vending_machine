@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vending_machine": {
+      "commandName": "Project",
+      "commandLineArgs": "LANGAGUE FR"
+    }
+  }
+}
